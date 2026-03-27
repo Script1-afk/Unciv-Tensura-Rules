@@ -1,0 +1,25 @@
+{
+  "name": "Règles du Monde de Tensura",
+  "baseRuleset": "Civ V",
+  "modLock": true,
+  "uniques": [
+    "[+5]% Maintenance <for [Monster] units>",
+    "[+10]% Strength <for [Monster] units> <after discovering [Sagesse du Grand Sage]>",
+    "[+1] Science per [1] population <after discovering [Sagesse du Grand Sage]>",
+    "[+5] Faith from all World Wonders",
+    "[-25]% Maintenance for [All] units <in cities with a [Forge]>",
+    "[+1] Culture from [Luxury] resources",
+    "Global Happiness affects Production by [15]%",
+    "Earn [50]% of killed Unit's [Strength] as [Experience]"
+  ],
+  "victoryConditions": [
+    {
+      "name": "Hégémonie de l'Octagramme",
+      "description": "Devenir le Seigneur Démon Suprême et contrôler toutes les capitales originelles."
+    },
+    {
+      "name": "Paix Mondiale de Jura",
+      "description": "Atteindre la victoire culturelle et posséder la merveille Grotte de Veldora."
+    }
+  ]
+}
